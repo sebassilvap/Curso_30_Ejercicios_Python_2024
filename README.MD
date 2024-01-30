@@ -3,7 +3,7 @@
 </strong></h1>
 
 <div>
-	<img src="/ARCHIVOS_VARIOS/YouTube_Channel.gif" alt='Info YouTube sebassilvap'>
+	<img src="ARCHIVOS_VARIOS/img/YouTube_Channel.gif" alt='Info YouTube sebassilvap'>
 </div>
 
 <h2><strong>
