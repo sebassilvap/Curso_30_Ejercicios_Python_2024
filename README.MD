@@ -5,7 +5,7 @@
 <br>
 
 <h2 align='center'>
-	by @sebassilvap
+	by @sebassilvap 👨‍🏫
 </h2>
 
 <br>
