@@ -40,7 +40,8 @@
 3. <a href='#link_3'>Procedimiento para seguir este curso 📚</a>
 4. <a href='#link_4'>¿Qué vamos a encontrar en este repositorio? 💾</a>
 5. <a href='#link_5'>Recomendaciones antes de 🐣</a>
-6. <a href='#link_6'>Palabras Finales del Instructor 🙏</a>
+6. <a href='#link_6'>Contenido del Curso 🧠</a>
+7. <a href='#link_7'>Palabras Finales del Instructor 🙏</a>
 
 <br>
 <br>
@@ -156,10 +157,110 @@
 
 <br>
 
+<h2 id='link_6'><strong>
+	6) Contenido del Curso 🧠 🙏
+</strong></h2>
+
+- **MÓDULO 1: Introducción / Presentación y Bienvenida**
+
+	- Presentación del Tutor, ¿por qué hacer este curso?
+	- Requisitos, Estructura del Curso y Recomendaciones
+	- Repositorio de GitHub del Curso
+	- Preparando nuestro entorno de trabajo en Google Colab
+	- Configurar nuestro YouTube como una plataforma E-Learning súper poderosa
+	- ¿Cómo ayudar / contribuir con el trabajo del Profe Sebas?
+
+- **MÓDULO 2: Repaso de Edición Markdown**
+
+	- `TEMA 01` : Introducción a Markdown y Entorno de Jupyter Colab
+	- `TEMA 02` : Comentarios HTML en Celda de Texto
+	- `TEMA 03` : Encabezados h1 a h6 con Markdown
+	- `TEMA 04` : Encabezados h1 a h6 con Etiquetas HTML
+	- `TEMA 05` : Listas No Ordenadas / con Viñetas en Markdown
+	- `TEMA 06` : Listas Ordenadas / con Numeración en Markdown
+	- `TEMA 07` : Agregar Margen Horizontal con Etiqueta <hr>
+	- `TEMA 08` : Salto de Línea entre Textos con Etiqueta <br>
+	- `TEMA 09` : Etiquetas de Párrafo <p> en HTML
+	- `TEMA 10` : Edición de Texto, Negrita y Cursiva con Markdown
+	- `TEMA 11` : Edición de Texto con HTML mediante las Etiquetas: <b> <strong> <i>
+	- `TEMA 12` : Combinando Elementos de Markdown: Edición de Texto, Encabezados, Listas y Formato
+	- `TEMA 13` : Agregando Bloque de Codigo Explicativo en Celda de Texto
+	- `TEMA 14` : Agregando Etiquetas de Código Simple con Markdown
+	- `TEMA 15` : Agregando Links o Vínculos con Markdown
+	- `TEMA 16` : Agregando Links o Vínculos con HTML
+	- `TEMA 17` : Creando Tablas de Datos en Celda de Texto con Markdown
+	- `TEMA 18` : Encabezados con Colores y Formato en HTML
+	- `TEMA 19` : Colores y Formato de Texto en Elementos HTML <p> y <span>
+	- `TEMA 20` : Insertando Emoticones en Celda de Texto con Herramienta de Windows
+	- `TEMA 21` : Insertando Imágenes en nuestro Cuaderno de Colab desde Vínculos Externos con Etiqueta <img>
+	- `TEMA 22` : Insertando Imágenes con Hipervínculos en Celda de Texto
+	- `TEMA 23` : Insertando Imágenes desde el Computador (CUIDADO) y Cierre del Módulo
+
+
+- **MÓDULO 3: Trucos del Editor de Colab**
+
+	- `TEMA 01` : Maneras de Ejecutar nuestras Celdas de Código
+	- `TEMA 02` : El Shortcut más importante CTRL + S para guardar nuestro cuaderno
+	- `TEMA 03` : Comandos Clásicos CTRL + C, X y V y la papelera de elementos con WINDOWS + V
+	- `TEMA 04` : Crear, Transformar o Quitar Comentarios con CTRL + /
+	- `TEMA 05` : Comandos Clásicos CTRL + Z y CTRL + Y para Deshacer y Rehacer
+	- `TEMA 06` : Desplazamiento y Selección Horizontal con las teclas HOME y END
+	- `TEMA 07` : Borrado y Copiado Inteligente con SHIFT + DEL
+	- `TEMA 08` : ALT con las teclas de Arriba y Abajo para mover una línea de código dentro de la celda
+	- `TEMA 09` : SHIFT + ALT + Teclas de Arriba o Abajo para duplicar una línea de código
+	- `TEMA 10` : CTRL + SHIFT + L para seleccionar todas las coincidencias
+	- `TEMA 11` : CTRL + D para seleccionar una coincidencia de un punto en adelante
+	- `TEMA 12` : Selección Horizontal Avanzada con SHIFT + CTRL
+	- `TEMA 13` : Abrir y Explorar la Ventana de Shortcuts del Editor de Colab
+	- `TEMA 14` : Abrir y Explorar la Paleta de Comandos
+	- `TEMA 15` : Creando Multicursores con el Teclado
+	- `TEMA 16` : Creando Multicursores con el Mouse usando ALT + Click Izquierdo
+	- `TEMA 17` : Ejecutando Todas las Celdas Anteriores con CTRL + F8
+	- `TEMA 18` : Ejecutando la Celda Actual y Siguientes con CTRL + F10
+	- `TEMA 19` : Desplazar una Celda entre Celdas
+	- `TEMA 20` : Eliminar una Celda y Deshacer Cambios
+	- `TEMA 21` : Activar Modo de Pantalla Completa y Cierre del Módulo
+
+
+- **MÓDULO 4: Listado de Ejercicios / Flexiones de Pecho en Python**
+
+	- `EJ 01` : Presentación de Datos en la Consola de Python
+	- `EJ 02` : Función en Python para generar rótulos
+	- `EJ 03` : Programa de Calculadora Básica en Python
+	- `EJ 04` : Función en Python para Encriptar una Contraseña
+	- `EJ 05` : Función en Python para convertir números enteros en Binarios
+	- `EJ 06` : Interacción inteligente con la computadora / Creando un Mini Bot en Python para preguntar nombre y edad
+	- `EJ 07` : Movimiento de un Robot con Funciones en Python
+	- `EJ 08` : Función en Python para dibujar una rampa con símbolos
+	- `EJ 09` : Función dibujar_rampa() (Versión Completa) / Dibujando con Python una rampa normal y una rampa inversa
+	- `EJ 10` : Cálculo de las Soluciones ó Raíces de una Ecuación Cuadrática por medio de Funciones en Python
+	- `EJ 11` : Función en Python para operaciones aritméticas de Arreglos
+	- `EJ 12` : Recreación del Cálculo del Factorial ! de un número con Funciones Normales y Funciones Recursivas
+	- `EJ 13` : Función en Python para el Cálculo de la Velocidad
+	- `EJ 14` : Juego de la Ruleta en Python - Player VS. Computadora
+	- `EJ 15` : Generación de todas las Combinaciones posibles en una Lista de Elementos
+	- `EJ 16` : Juego de Adivinanzas en Python - El Ahorcado
+	- `EJ 17` : Función en Python para crear un tablero de juego
+	- `EJ 18` : Programa en Python para manipular un tablero de 3 x 3
+	- `EJ 19` : Practicando las funciones con decoradores en Python
+	- `EJ 20` : Listado alfabético de estudiantes con Numeración en formato de Diccionario
+	- `EJ 21` : Generación de ID (Identificador Único) de estudiantes y su presentación en Diccionario
+	- `EJ 22` : Cálculo de los 3 valores estadísticos más básicos e importantes con Python: Media, Mediana y Moda
+	- `EJ 23` : Programa para obtener el nombre de una Variable en Python
+	- `EJ 24` : Librería Externa "varname" con Funciones *args / Presentando una Lista de Productos
+	- `EJ 25` : Programa de Facturación de una Tienda de Productos Online
+	- `EJ 26` : Conociendo todos los días de nuestros cumpleaños hasta la fecha de hoy
+	- `EJ 27` : Reloj mundial para 5 lugares del mundo cada 5 segundos
+	- `EJ 28` : Programa Conversor de Unidades para Longitud y Distancia
+	- `EJ 29` : Graficadora de Funciones BÁSICA en Python
+	- `EJ 30` : ÚLTIMO EJERCICIO / Función generar_subplots() en Python para gráficos dinámicos e inteligentes
+
 <br>
 
-<h2 id='link_6'><strong>
-	6) Palabras Finales del Instructor 🙏
+<br>
+
+<h2 id='link_7'><strong>
+	7) Palabras Finales del Instructor 🙏
 </strong></h2>
 
 - Nada más agradecerles el seguir mi curso y darme la oportunidad de poder transmitirles mi conocimiento.
