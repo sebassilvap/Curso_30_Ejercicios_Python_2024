@@ -178,11 +178,11 @@
 	- `TEMA 04` : Encabezados h1 a h6 con Etiquetas HTML
 	- `TEMA 05` : Listas No Ordenadas / con Viñetas en Markdown
 	- `TEMA 06` : Listas Ordenadas / con Numeración en Markdown
-	- `TEMA 07` : Agregar Margen Horizontal con Etiqueta <hr>
-	- `TEMA 08` : Salto de Línea entre Textos con Etiqueta <br>
-	- `TEMA 09` : Etiquetas de Párrafo <p> en HTML
+	- `TEMA 07` : Agregar Margen Horizontal con Etiqueta hr
+	- `TEMA 08` : Salto de Línea entre Textos con Etiqueta br
+	- `TEMA 09` : Etiquetas de Párrafo p en HTML
 	- `TEMA 10` : Edición de Texto, Negrita y Cursiva con Markdown
-	- `TEMA 11` : Edición de Texto con HTML mediante las Etiquetas: <b> <strong> <i>
+	- `TEMA 11` : Edición de Texto con HTML mediante las Etiquetas: b, strong i
 	- `TEMA 12` : Combinando Elementos de Markdown: Edición de Texto, Encabezados, Listas y Formato
 	- `TEMA 13` : Agregando Bloque de Codigo Explicativo en Celda de Texto
 	- `TEMA 14` : Agregando Etiquetas de Código Simple con Markdown
@@ -190,9 +190,9 @@
 	- `TEMA 16` : Agregando Links o Vínculos con HTML
 	- `TEMA 17` : Creando Tablas de Datos en Celda de Texto con Markdown
 	- `TEMA 18` : Encabezados con Colores y Formato en HTML
-	- `TEMA 19` : Colores y Formato de Texto en Elementos HTML <p> y <span>
+	- `TEMA 19` : Colores y Formato de Texto en Elementos HTML p y span
 	- `TEMA 20` : Insertando Emoticones en Celda de Texto con Herramienta de Windows
-	- `TEMA 21` : Insertando Imágenes en nuestro Cuaderno de Colab desde Vínculos Externos con Etiqueta <img>
+	- `TEMA 21` : Insertando Imágenes en nuestro Cuaderno de Colab desde Vínculos Externos con Etiqueta img
 	- `TEMA 22` : Insertando Imágenes con Hipervínculos en Celda de Texto
 	- `TEMA 23` : Insertando Imágenes desde el Computador (CUIDADO) y Cierre del Módulo
 
